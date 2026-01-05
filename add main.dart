@@ -2,12 +2,10 @@ import 'package:flutter/material.dart';
 import 'screens/home_screen.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(AnimeApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
+class AnimeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

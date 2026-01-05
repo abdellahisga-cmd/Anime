@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Attack on Titan",
+    "cover": "https://i.imgur.com/8Q1ZQZp.jpg",
+    "synopsis": "قصة عالم تحاصره العمالقة، وبشر يقاتلون من أجل البقاء.",
+    "studio": "MAPPA",
+    "year": 2013,
+    "status": "Completed",
+    "genres": ["Action", "Drama", "Fantasy"],
+    "rating": 4.8,
+    "seasons": [
+      {
+        "season_number": 1,
+        "episodes": [
+          {
+            "episode_number": 1,
+            "title": "To You, in 2000 Years",
+            "duration": "24 min",
+            "video_urls": {
+              "360p": "https://example.com/aot_s1_e1_360p.mp4",
+              "720p": "https://example.com/aot_s1_e1_720p.mp4"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
